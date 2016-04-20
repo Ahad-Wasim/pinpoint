@@ -41,7 +41,7 @@
 
 ### System Architecture
 
-![System architecture](http://s18.postimg.org/v8xu15vnd/Screen_Shot_2016_02_11_at_8_18_14_PM.png)
+![System architecture](http://s31.postimg.org/apinlbqbf/pinpoint.png)
 
 ### Database Schemas
 
